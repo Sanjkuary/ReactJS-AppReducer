@@ -1,0 +1,20 @@
+.App {
+  text-align: center;
+}
+body {
+  background-color: #ffc8dd;
+}
+.header {
+  background-color: rgb(16, 16, 63);
+  text-align: center;
+  color: white;
+  padding: 5px;
+}
+.btn {
+  background-color: chocolate;
+  color: white;
+  justify-content: baseline;
+  margin: 10px;
+  border-radius: 5px;
+  border-color: green;
+}
